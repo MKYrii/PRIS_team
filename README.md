@@ -8,8 +8,8 @@
 
 | Участник        | Роль |
 |-----------------|---|
-| Михайлов Юрий   | Product Owner / Data Scientist |
-| Шестак Богдан   | Software Architect / Data Architect |
+| Шестак Богдан   | Product Owner / Data Scientist |
+| Михайлов Юрий   | Software Architect / Data Architect |
 | Баженов Алексей | Data Engineer |
 
 ---

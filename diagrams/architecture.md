@@ -91,10 +91,10 @@ flowchart TB
     INGEST --> PROM
     PROM --> GRAF
 
-    style ML_LAYER fill:#e0f2fe,stroke:#0284c7,color:#0f172a,font-size:16px
-    style ML_OPS fill:#e0f2fe,stroke:#0284c7,color:#0f172a,font-size:16px
-    style STREAMING fill:#e0f2fe,stroke:#0284c7,color:#0f172a,font-size:16px
-    style OBS fill:#e0f2fe,stroke:#0284c7,color:#0f172a,font-size:16px
+    style ML_LAYER fill:#ede9fe,stroke:#7c3aed,color:#000000,font-weight:bold
+    style ML_OPS fill:#ede9fe,stroke:#7c3aed,color:#000000,font-weight:bold
+    style STREAMING fill:#fff7ed,stroke:#f97316,color:#000000,font-weight:bold
+    style OBS fill:#f0fdf4,stroke:#22c55e,color:#000000,font-weight:bold
 ```
 
 ---
